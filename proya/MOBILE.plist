@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://soa.proya.com:8380/download/proya/MOBILE.ipa</string>
+						<string>http://soa.proya.com/download/proya/MOBILE.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
