@@ -24,7 +24,7 @@
 
 <key>url</key>
 
-<string>http://220.194.10.11:8088/newVersion/IOSOA/ccsoa.ipa</string>
+<string>http://172.26.200.151:8006/openPlatform/newVersion/IOSOA/ccsoa.ipa</string>
 
 </dict>
 
